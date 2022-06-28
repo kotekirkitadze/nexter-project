@@ -1,0 +1,1 @@
+1.  "devserver": "live-server --browser=firefox",
